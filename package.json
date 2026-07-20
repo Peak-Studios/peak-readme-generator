@@ -1,0 +1,10 @@
+{
+  "name": "@peak-studios/resource-readme-generator",
+  "version": "1.0.0",
+  "description": "Draft installation, configuration, permission, and API documentation from a FiveM resource.",
+  "type": "module",
+  "bin": { "peak-readme": "bin/peak-readme.js" },
+  "scripts": { "test": "node --test", "start": "node bin/peak-readme.js" },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
